@@ -11,9 +11,9 @@ Yah we need u to join us to make it(the world) works better
 You know how to get started once you enter this page.
 ```
 Belonging,Keycode,Note
-Benjamin,33442211
-Hollywood,73881122
-Kaleycuoco,71829170
+Benjamin,33442211,+--+
+Hollywood,73881122,-+-+
+Kaleycuoco,71829170,+-+-
 ```
 Meet us through the keycode!
 
